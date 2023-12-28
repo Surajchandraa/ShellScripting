@@ -13,7 +13,7 @@ fi #end of the conditional statement
 
 
 # -gt   -> greater than
-# -eq/==   -> equal
+# -eq/==   -> equal  -eq for the numeric comparison and == for string
 # -ge   -> greaterthanequalto
 # -le   -> lessthanequalto
 # -ne/!=   -> not equal
