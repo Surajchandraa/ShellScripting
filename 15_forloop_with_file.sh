@@ -1,7 +1,7 @@
 #!/bin/bash
 
-itemb= surajjoshi.txt
+itemb=surajjoshi.txt
 for items in $(cat $itemb)
 do 
-    echo $itemb
+    echo $items
 done
