@@ -1,0 +1,18 @@
+PING www.google.com(del11s17-in-x04.1e100.net (2404:6800:4002:81c::2004)) 56 data bytes
+64 bytes from del11s17-in-x04.1e100.net (2404:6800:4002:81c::2004): icmp_seq=1 ttl=117 time=65.4 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 65.444/65.444/65.444/0.000 ms
+PING www.google.com(del11s17-in-x04.1e100.net (2404:6800:4002:81c::2004)) 56 data bytes
+64 bytes from del11s17-in-x04.1e100.net (2404:6800:4002:81c::2004): icmp_seq=1 ttl=117 time=66.9 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 66.876/66.876/66.876/0.000 ms
+PING www.google.com(del11s17-in-x04.1e100.net (2404:6800:4002:81c::2004)) 56 data bytes
+64 bytes from del11s17-in-x04.1e100.net (2404:6800:4002:81c::2004): icmp_seq=1 ttl=117 time=87.3 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 87.253/87.253/87.253/0.000 ms
