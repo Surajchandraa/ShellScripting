@@ -1,12 +1,13 @@
 #!/bin/bash
 
 # Creating local user
-
+#check for root user
 if [ $UID -ne 0 ]; then
     echo "Please run with sudo or root"
     exit 1
 fi
 
+#check if user name provided or not
 if [ $# -lt 1 ]; then
     echo "USAGE: $0 USERNAME [COMMENT]"
     echo "First argument should be username, and comment is optional"
