@@ -17,5 +17,7 @@ echo "my name is" $name
 
 # variable to store the output of a command
 #
-HOSTNAME=$(hostname)
+HOSTNAME=$(hostname) # this is not direct execution of command with echo, in this command's output is storing in variable.
 echo $HOSTNAME
+
+echo $(hostname) #this is direct execution of the command
