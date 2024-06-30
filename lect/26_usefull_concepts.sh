@@ -9,7 +9,7 @@
 
 exit - to stop script at a point 
 
-exit status $? - gives you status of previous command if that was sucessful
+exit status $? - gives you status of previous command if that was sucessful , 0 if command was sucessful
 
 basename - strip directory info and only give filename.
 suraj@ubuntu:~/shellscripts$ basename /home/suraj/shellscript/surajjoshi.txt
